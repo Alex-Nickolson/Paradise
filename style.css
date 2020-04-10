@@ -1,0 +1,23 @@
+body
+  {
+    background: #101a12;
+    color: #d360a3;
+  }
+h1
+ {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; font-size: 40px;
+   font-size: 40px
+   font-style: normal;
+   font-variant: normal;
+   font-weight: 100;
+   line-height: 44px;
+ }
+h2
+{
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+   font-size: 20px;
+   font-style: normal;
+   font-variant: normal;
+    font-weight: 100;
+    line-height: 22px;
+}
